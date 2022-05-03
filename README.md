@@ -1,7 +1,7 @@
 # landingPage-emprego
-estudos
 
-<img src="./img/foto.png" width="400" alt="meu site estudos>
+
+<img src="./img/foto.png" width="400" alt="meu site estudos">
 
 > Resultado das aulas praticas do HTML E CSS.
 
